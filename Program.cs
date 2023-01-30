@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello,MSC ACADEMY");
+Console.WriteLine("Hello,MSC ACADEMY ,  ciao a tutti");
