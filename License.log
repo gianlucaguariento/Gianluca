@@ -27,3 +27,8 @@
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
    at Telerik.Licensing.Licenser.ReadHashPass()
     Entering constructor for: DevExpress.ExpressApp.Design.DynamicPackage.VSPkg
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.EditorFactory
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.EditorFactory
+    Entering Dispose() of: DevExpress.ExpressApp.Design.DynamicPackage.VSPkg
